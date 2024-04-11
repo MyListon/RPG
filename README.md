@@ -1,3 +1,5 @@
+![Imagem de RPG](https://i0.wp.com/joncronshaw.com/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-26-17.31.08-A-fantasy-themed-image-depicting-a-small-group-of-diverse-adventurers-in-a-mystical-forest-setting.-The-group-consists-of-a-wizard-in-elaborate-robes-.webp?resize=1024%2C585&ssl=1)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,3 +23,5 @@
     </div>
 </body>
 </html>
+
+![Imagem](https://i.pinimg.com/originals/8d/2a/2f/8d2a2f5cee7d94562c2ef58ca0aab672.gif)
